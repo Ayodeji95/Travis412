@@ -12,3 +12,4 @@ public class SimpleCalculatorTest {
 		assertEquals(calc.add(1, 1), 0);
 	}
 }
+
